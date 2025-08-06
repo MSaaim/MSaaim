@@ -13,6 +13,7 @@ With **3+ years of experience**, I love learning new frameworks, building apps f
 - **Database:** MongoDB, Supabase  
 - **Others:** Firebase, Docker, Git
 
+> *"And more"*
 ---
 
 ### Fun Facts
