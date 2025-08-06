@@ -10,11 +10,6 @@ I enjoy learning new frameworks, experimenting with side projects, and building 
 
 ---
 
-## GitHub Stats  
-![GitHub Streak](https://streak-stats.demolab.com?user=MSaaim&theme=dark)
-
----
-
 ### Mobile
 ![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white)
