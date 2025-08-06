@@ -4,9 +4,9 @@
 
 ---
 
-![Pull Requests](https://img.shields.io/github/issues-pr-closed/MSaaim/MSaaim?color=blue&label=Pull%20Requests%20Closed)
-![Issues](https://img.shields.io/github/issues-closed/MSaaim/MSaaim?color=green&label=Issues%20Closed)
-![Commits](https://badgen.net/github/commits/MSaaim/MSaaim/main)
+![Pull Requests](https://img.shields.io/badge/Pull%20Requests-Closed-blue?style=flat-square&logo=github)
+![Issues](https://img.shields.io/badge/Issues-Closed-green?style=flat-square&logo=github)
+![Commits](https://img.shields.io/badge/Commits-Overall-black?style=flat-square&logo=git)
 
 ---
 
@@ -41,8 +41,9 @@ I enjoy learning new frameworks, experimenting with side projects, and building 
 ---
 
 ## GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MSaaim&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MSaaim&show_icons=true&theme=dark&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MSaaim&layout=compact&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com?user=MSaaim&theme=dark)
 
 ---
 
