@@ -4,9 +4,9 @@
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=YourUsername&color=blue)
-![Followers](https://img.shields.io/github/followers/YourUsername?label=Followers&style=social)
-![Stars](https://img.shields.io/github/stars/YourUsername?affiliations=OWNER%2CCOLLABORATOR&style=social)
+![Pull Requests](https://img.shields.io/github/issues-pr-closed/MSaaim/MSaaim?color=blue&label=Pull%20Requests%20Closed)
+![Issues](https://img.shields.io/github/issues-closed/MSaaim/MSaaim?color=green&label=Issues%20Closed)
+![Commits](https://badgen.net/github/commits/MSaaim/MSaaim/main)
 
 ---
 
@@ -41,8 +41,8 @@ I enjoy learning new frameworks, experimenting with side projects, and building 
 ---
 
 ## GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MSaaim&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MSaaim&layout=compact&theme=dark)
 
 ---
 
