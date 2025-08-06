@@ -4,12 +4,6 @@
 
 ---
 
-![Pull Requests](https://img.shields.io/badge/Pull%20Requests-Closed-blue?style=flat-square&logo=github)
-![Issues](https://img.shields.io/badge/Issues-Closed-green?style=flat-square&logo=github)
-![Commits](https://img.shields.io/badge/Commits-Overall-black?style=flat-square&logo=git)
-
----
-
 ## About Me  
 I’m a passionate **Mobile App Developer** specializing in **React Native** and **Swift**, with **3+ years of experience** delivering high-performing mobile and web applications.  
 I enjoy learning new frameworks, experimenting with side projects, and building apps just for fun.
@@ -41,8 +35,6 @@ I enjoy learning new frameworks, experimenting with side projects, and building 
 ---
 
 ## GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MSaaim&show_icons=true&theme=dark&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MSaaim&layout=compact&theme=dark)
 ![GitHub Streak](https://streak-stats.demolab.com?user=MSaaim&theme=dark)
 
 ---
