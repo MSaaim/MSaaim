@@ -10,6 +10,11 @@ I enjoy learning new frameworks, experimenting with side projects, and building 
 
 ---
 
+## GitHub Stats  
+![GitHub Streak](https://streak-stats.demolab.com?user=MSaaim&theme=dark)
+
+---
+
 ### Mobile
 ![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white)
@@ -42,19 +47,7 @@ I enjoy learning new frameworks, experimenting with side projects, and building 
 ## Fun Facts  
 - 4000+ hours of gaming experience  
 - Love experimenting with new frameworks and side projects  
-- Slight OCD → I keep my code clean and organized  
-
----
-
-## Currently  
-- Building seamless mobile solutions with React Native & Swift  
-- Exploring backend integrations with Supabase & Next.js  
-- Learning advanced SwiftUI animations
-
----
-
-## GitHub Stats  
-![GitHub Streak](https://streak-stats.demolab.com?user=MSaaim&theme=dark)
+- Slight OCD → I keep my code clean and organized
 
 ---
 
