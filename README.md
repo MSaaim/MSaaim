@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Muhammad Saaim 👋
 
-<!--
-**MSaaim/MSaaim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Mobile App Developer | Full Stack Engineer**
 
-Here are some ideas to get you started:
+I build smooth, high-performing apps using **React Native** & **Swift** and also work as a **Full Stack Developer**.  
+With **3+ years of experience**, I love learning new frameworks, building apps for fun, and exploring creative solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Tech Stack
+- **Mobile:** React Native, Swift, SwiftUI  
+- **Backend:** Node.js, Express, Next.js  
+- **Database:** MongoDB, Supabase  
+- **Others:** Firebase, Docker, Git
+
+---
+
+### Fun Facts
+- 4000+ hours of gaming experience 🎮  
+- Love experimenting with new frameworks & side projects  
+- Slight OCD → I keep my code clean and organized 
+
+---
+
+### Connect With Me
+- **Email:** [devsaaim@gmail.com](mailto:devsaaim@gmail.com)  
+- **LinkedIn:** [https://www.linkedin.com/in/saaim-iftikhar-273ba0214/](#)
+
+> *"Build. Break. Learn. Repeat."*
+
